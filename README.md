@@ -1,5 +1,5 @@
 # Data-mangement
-Overview
+# Overview
 This repository showcases my data management skills developed through hands-on labs and projects. It includes SQL queries, Power BI visualizations, and data analysis techniques applied to real-world business scenarios.
 
 Contents
