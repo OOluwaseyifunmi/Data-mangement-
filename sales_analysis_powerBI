@@ -1,0 +1,38 @@
+# Sales Analysis with Power BI
+
+Sales data analysis using Power BI, covering data management, visualization, and insights.
+
+## Project Description
+This project involves an in-depth sales analysis performed in Power BI. It covers data management processes, including data cleaning, transformation, and visualization to derive key business insights from sales data.
+
+## Table of Contents
+- [Overview](#overview)
+- [Data Management Process](#data-management-process)
+- [Insights and Visualizations](#insights-and-visualizations)
+- [Results and Learnings](#results-and-learnings)
+- [How to Replicate](#how-to-replicate)
+
+## Overview
+The goal of this project was to manage and analyze sales data to identify trends, optimize performance, and support data-driven decisions.
+
+## Data Management Process
+In Power BI, I performed the following tasks for data management:
+- **Data Cleaning**: Removed duplicates and filtered out incomplete records.
+- **Data Transformation**: Standardized formats, created calculated columns, and normalized values.
+- **Data Modeling**: Established relationships between tables to enhance data connectivity and analysis.
+
+## Insights and Visualizations
+The following visuals were created in the images  to derive insights:
+- **Sales Over Time**: Shows sales trends month by month.
+- **Product Performance**: Highlights top-performing products.
+- **Regional Analysis**: Compares sales across different regions.
+
+
+## Results and Learnings
+- Identified peak sales months and top-selling products.
+- Regional analysis helped pinpoint areas for targeted marketing.
+- Learned how to optimize data flows and manage large datasets in Power BI.
+
+## How to Replicate
+1. **Data**: Use a sample dataset (or describe how to get similar data).
+2. **Transformation**: Follow the steps outlined above in Power BI.
